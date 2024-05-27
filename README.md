@@ -1,4 +1,4 @@
-## GCP & Data Engineering Specialist-Data Engineering@General Mills | Enterprise Architecture | Scalable Data Pipelines | Jenkins | Apache Airflow | ETL & Orchestration-Data Workflows | Real-Time Streaming Data | Python |##
+## Ayush @ GCP & Data Engineering Specialist-Data Engineering@General Mills ## 
 
 ## Greetings Data Engineering Community 👋 About me 
 
