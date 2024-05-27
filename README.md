@@ -1,4 +1,4 @@
-## Ayush @ GCP & Data Engineering Specialist- Full-Stack Data Engineering Portfolio ##
+## Ayush @ GCP & Data Engineering Specialist- Full-Stack Data Engineering ##
 
 ## Greetings Data Engineering Community 👋 About me 
 
